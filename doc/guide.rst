@@ -6,7 +6,7 @@ Whether you need to test the properties of triangles,
 or learn their dimensions, trianglelib does it all!
 
 Special triangles
------------------
+=================
 
 There are two special kinds of triangle
 for which trianglelib offers special support.
