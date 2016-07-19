@@ -1,0 +1,12 @@
+The trianglelib API Reference
+=============================
+.. automodule:: trianglelib
+		
+.. module:: trianglelib.shapes
+
+.. class:: Triangle
+
+   The triangle class ...
+
+   .. method:: foo()
+      The method docs.	
